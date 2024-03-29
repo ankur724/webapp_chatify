@@ -11,7 +11,7 @@ var socket;
 
 
 // const ENDPOINT = "http://localhost:4500/";
-const ENDPOINT = "https://webapp-chatify-1ruvxa6je-ankur-saxenas-projects.vercel.app/";
+const ENDPOINT = "https://webapp-chatify-1.onrender.com/";
 const Chat = () => {
     const [id, setId] = useState("");
     const [messages, setMessages] = useState([]);
