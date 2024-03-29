@@ -84,7 +84,7 @@ const Chat = () => {
         <div className="chatPage">
             <div className="chatContainer">
                 <div className="header">
-                    <h2>CHATIFY</h2>
+                   <h2>CHATIFY</h2><h3> {`${user}`}</h3>
                     <a href="/"> <img src={closeIcon} alt="Close" /></a>
                 </div>
                 <ReactScrollToBottom className="chatBox">
