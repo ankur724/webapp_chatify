@@ -5,7 +5,7 @@ const socketIO = require("socket.io");
 const path = require("path");
 
 const app = express();
-const port = process.env.PORT || 4500;
+const port = process.env.PORT;
 
 // Initialize users object
 const users = {};
