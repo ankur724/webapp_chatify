@@ -1,4 +1,5 @@
 Chatify vist:-https://webapp-chatify-frontend.vercel.app/
+
 Chatify is a real-time web-based chat application built with React, Socket.IO, and Node.js with Express. It allows users to communicate with each other in real-time over the internet. Chatify is designed to be responsive, ensuring a seamless experience across various devices.
 
 Features
