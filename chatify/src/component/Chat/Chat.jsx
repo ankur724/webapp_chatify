@@ -10,8 +10,8 @@ import closeIcon from "../../Images/closeIcon.png";
 var socket;
 
 
-const ENDPOINT = "http://localhost:4500/";
-// const ENDPOINT = "https://webapp-chatify-it14nsw5z-ankur-saxenas-projects.vercel.app/";
+// const ENDPOINT = "http://localhost:4500/";
+const ENDPOINT = "https://webapp-chatify-1ruvxa6je-ankur-saxenas-projects.vercel.app/";
 const Chat = () => {
     const [id, setId] = useState("");
     const [messages, setMessages] = useState([]);
